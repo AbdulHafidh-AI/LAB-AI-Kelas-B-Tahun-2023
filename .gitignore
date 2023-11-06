@@ -1,0 +1,5 @@
+# ignore zip folder
+*.zip
+prakai/
+data/
+
